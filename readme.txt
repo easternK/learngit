@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software destributed under the GPL.
 Git has a mutable index called stages.
 Git tracks changes of files.
+test git always pass account verify.
